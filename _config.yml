@@ -8,5 +8,5 @@ plugins:
 
 # Menu
 navigation: 
-  - {file: "index.html", icon: home}
-  - {file: "about.html", icon: About Us}
+  - {file: "index.html", title: Home, icon: home}
+  - {file: "about.html", title: About Us, icon: About Us}
