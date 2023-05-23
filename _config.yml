@@ -4,4 +4,8 @@ google_analytics:
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-menu: About Us
+
+
+navigation: 
+  - {file: "index.html", icon: home}
+  - {file: "about.html", icon: About Us}
