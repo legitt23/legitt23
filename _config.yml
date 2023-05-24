@@ -11,4 +11,4 @@ show_frame: true
 # Menu
 navigation:
 - {file: "index.md", title: "Home", icon: home}
-- {file: "", title: "About Us", icon: address-card}
+- {file: "README.md", title: "About Us", icon: address-card}
