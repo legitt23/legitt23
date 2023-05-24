@@ -10,3 +10,5 @@ The key concept to understand about Scrum is that it does not mandate a sequence
 2. Serve as a bridge between product management and development.
 3. Clear obstacles and protect the team from distractions.
 4. Lead through influence and credibility.
+
+## The different members of our Team
