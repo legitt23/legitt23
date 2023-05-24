@@ -8,4 +8,4 @@ plugins:
 # Menu
 navigation:
 - {file: "", title: Home, icon: home}
-- {file: "", title: About Us, icon: home}
+- {file: "", title: About Us, icon: address-card}
