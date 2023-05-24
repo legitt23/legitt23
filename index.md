@@ -2,4 +2,4 @@
 layout: default
 ---
 
-#Who we are!
+# Who we are!
