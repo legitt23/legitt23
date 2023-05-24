@@ -13,5 +13,3 @@ navigation:
 - {file: "index.md", title: "Home", icon: home}
 - {file: "README.md", title: "About Us", icon: address-card}
 
- header_pages:
-#   - README.md
