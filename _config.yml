@@ -1,7 +1,7 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title:Agile Master
+email:admin@agilemaster.com
+description: > Agile Masters is a highly skilled and dedicated Scrum Team, ready to showcase their exceptional talent and expertise on to the world.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
