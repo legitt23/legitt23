@@ -1,6 +1,6 @@
 # Site settings
-title: Agile Master
-email: admin@agilemaster.com
+title: #Agile Master
+email: #admin@agilemaster.com
 description: #Glappy Agile Masters website.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
