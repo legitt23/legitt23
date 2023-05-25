@@ -1,12 +1,25 @@
 # Site settings
 title:Agile Master
 email:admin@agilemaster.com
-description: > Agile Masters is a highly skilled and dedicated Scrum Team, ready to showcase their exceptional talent and expertise on to the world.
+description: > Glappy Agile Masters website.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
 
+people:
+- name: Test this
+  pic: Faustin
+  position: Product Owner
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/faustin-demesse-bb21a7155/
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
 # Build settings
 markdown: kramdown
