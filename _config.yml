@@ -8,18 +8,6 @@ url: "" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 
-people:
-- name: Test this
-  pic: Faustin
-  position: Product Owner
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/faustin-demesse-bb21a7155/
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+
 # Build settings
 markdown: kramdown
