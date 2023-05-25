@@ -10,7 +10,7 @@ github_username:
 
 # Team names, titles and social links
 people:
-- name: Faustin DEMESSE
+- name: George Findi
   pic: Faustin
   position: Product Owner
   social:
@@ -23,9 +23,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Dorothy F
-  pic: Dorothy
-  position: Scrum Master
+- name: Agbor Asem
+  pic: agbor
+  position: Scrum Master 1
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/dorothy-simo/
@@ -36,9 +36,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Kotartee Torh
-  pic: Kotartee
-  position: Developer
+- name: Elizerberth
+  pic: elise
+  position: Scrum Master 2
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/kotartee-torh/
@@ -47,9 +47,9 @@ people:
     - title: google-plus
       url: #
 
-- name: Esther Osazuwa 
-  pic: Esther
-  position: Tester
+- name: Pen Davids
+  pic: pen
+  position: Content creator
   social:
     - title: twitter
       url: #
@@ -58,9 +58,9 @@ people:
     - title: google-plus
       url: #
 
-- name: Lilly 
-  pic: Lilly
-  position: Product Owner
+- name: Romeo 
+  pic: romeo
+  position: Developer 1
   social:
     - title: twitter
       url: #
@@ -69,9 +69,9 @@ people:
     - title: google-plus
       url: #
 
-- name: Venus Tadonke
-  pic: Venus
-  position: Developer
+- name: Queen Enih
+  pic: queen
+  position: Developer 2
   social:
     - title: twitter
       url: #
@@ -80,9 +80,9 @@ people:
     - title: google-plus
       url: #
       
-- name: Justice
+- name: Mimo
   pic: Justice
-  position: Product Manager
+  position: Developer 3
   social:
     - title: twitter
       url: #
@@ -91,40 +91,7 @@ people:
     - title: google-plus
       url: #
 
-- name: Charles Akpoghenobor
-  pic: Charles
-  position: Data Analyst
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
-- name: Beckly T
-  pic: Beckly
-  position: Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: JPurple
-  pic: jpurple
-  position: Lead Developer
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/ngnepedoh-irving-craig/
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Build settings
 markdown: kramdown
